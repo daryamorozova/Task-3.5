@@ -1,5 +1,4 @@
-
- name: Java CI # как называется Workflow
+name: Java CI # как называется Workflow
 
 on: [push] # когда срабатывает (на push)
 
